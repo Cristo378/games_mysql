@@ -1,2 +1,2 @@
-rootProject.name='cristovaoperez'
+rootProject.name = 'cristovaoperez'
 include('app')
